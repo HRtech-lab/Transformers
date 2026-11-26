@@ -10,7 +10,7 @@ Convert a single-channel image to ordered, non-overlapping patch tokens.
 python examples/patch_tokens.py
 ```
 
-## Rms norm
+## RMSNorm
 
 Apply root mean square normalisation across each token's feature dimension.
 
